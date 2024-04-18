@@ -1,0 +1,14 @@
+C:\Users\anvar\source\repos\Tarjimon\Tarjimon\bin\Debug\net7.0\Tarjimon.exe
+C:\Users\anvar\source\repos\Tarjimon\Tarjimon\bin\Debug\net7.0\Tarjimon.deps.json
+C:\Users\anvar\source\repos\Tarjimon\Tarjimon\bin\Debug\net7.0\Tarjimon.runtimeconfig.json
+C:\Users\anvar\source\repos\Tarjimon\Tarjimon\bin\Debug\net7.0\Tarjimon.dll
+C:\Users\anvar\source\repos\Tarjimon\Tarjimon\bin\Debug\net7.0\Tarjimon.pdb
+C:\Users\anvar\source\repos\Tarjimon\Tarjimon\obj\Debug\net7.0\Tarjimon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anvar\source\repos\Tarjimon\Tarjimon\obj\Debug\net7.0\Tarjimon.AssemblyInfoInputs.cache
+C:\Users\anvar\source\repos\Tarjimon\Tarjimon\obj\Debug\net7.0\Tarjimon.AssemblyInfo.cs
+C:\Users\anvar\source\repos\Tarjimon\Tarjimon\obj\Debug\net7.0\Tarjimon.csproj.CoreCompileInputs.cache
+C:\Users\anvar\source\repos\Tarjimon\Tarjimon\obj\Debug\net7.0\Tarjimon.dll
+C:\Users\anvar\source\repos\Tarjimon\Tarjimon\obj\Debug\net7.0\refint\Tarjimon.dll
+C:\Users\anvar\source\repos\Tarjimon\Tarjimon\obj\Debug\net7.0\Tarjimon.pdb
+C:\Users\anvar\source\repos\Tarjimon\Tarjimon\obj\Debug\net7.0\Tarjimon.genruntimeconfig.cache
+C:\Users\anvar\source\repos\Tarjimon\Tarjimon\obj\Debug\net7.0\ref\Tarjimon.dll

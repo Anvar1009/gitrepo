@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9rVCSPy+aYNv1Mo49f5tTL53B+1AFDnfWODVAGjDmzFGzGJ5OLmJT48YNkcdVahsKg+rIWQnB8R6wY/ZYqtfbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anvar\\source\\repos\\Tarjimon\\Tarjimon\\Tarjimon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anvar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\anvar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\anvar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\anvar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
